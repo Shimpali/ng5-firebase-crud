@@ -1,0 +1,9 @@
+/* Add application styles & imports to this file! */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+input.ng-invalid.ng-dirty{
+  border: 1px solid maroon;
+}
+
+button:hover, a.btn:hover{
+  cursor: pointer;
+}
